@@ -5,7 +5,8 @@
 </p>
 <p align="center" style="text-align: center;">
   <a href="https://github.com/mariagregory/Translations" target="blank">
-    <img src="https://res.cloudinary.com/highereducation/image/upload/c_fill,w_1200,h_675,f_auto,fl_lossy,q_auto/v1/BestColleges.com/foreign-languages.jpg" />
+    <img src="https://res.cloudinary.com/highereducation/image/upload/c_fill,w_1200,h_675,f_auto,fl_lossy,q_auto/v1/BestColleges.com/foreign-languages.jpg" style="width: 300px;
+    height: 250px;" />
   </a>
 </p>
 

@@ -1,7 +1,6 @@
 <p align="center" style="text-align: center;">
   <a href="https://github.com/mariagregory/Translations" target="blank">
-    <h2 style="color: maroon;    font-family: 'Lucida Sans Unicode', 'Lucida Grande'', sans-serif;    font-size: 130%;">My English-Russian Translations</h2>
-    <img src="https://www.translationsoftware4u.com/images/russian-english-language.jpg" style="width: 280px;" />
+    <img src="https://github.com/mariagregory/mariagregory/blob/main/Eng-Rus.JPG" />
   </a>
 </p>
 

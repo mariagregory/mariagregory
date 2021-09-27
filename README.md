@@ -1,6 +1,6 @@
 <p align="center" style="text-align: center;">
   <a href="https://github.com/mariagregory/Translations" target="blank">
-    <img src="https://github.com/mariagregory/mariagregory/blob/main/Eng-Rus.JPG" />
+    <img src="https://github.com/mariagregory/mariagregory/blob/main/Eng-Rus.JPG" width="250" />
   </a>
 </p>
 

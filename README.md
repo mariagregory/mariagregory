@@ -1,4 +1,11 @@
-<link type="text/css" rel="stylesheet" href="https://github.com/mariagregory/mariagregory.github.io/blob/master/main.css" />
+<style>
+  h2 {
+    text-align: center;
+    color: maroon;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 130%;
+  }
+</style>
 
 <p align="center" style="text-align: center;">
   <a href="https://mariagregory.github.io" target="blank">

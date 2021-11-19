@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" style="text-align: center;">
-  <a href="https://mariagregory.github.io/portfolio.html" target="blank">
+  <a href="https://mariagregory.github.io/myportfolio.html" target="blank">
     <img src="https://github.com/mariagregory/mariagregory/blob/main/readme_Img.JPG?raw=true" />
   </a>
 </p>
